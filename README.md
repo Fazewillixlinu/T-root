@@ -16,7 +16,7 @@ root es una herramienta que utiliza proot para simular los privilegios root, uti
 
 * ` apt update && apt -y upgrade` 
 * ` pkg install -y git `
-* ` pkg install -y proot `
+* ` pkg install -y root `
 * ` termux-setup-storage `
 * ` git clone https://github.com/Anonymous-Zpt/T-root `
 * ` cd -root`
