@@ -19,7 +19,7 @@ root es una herramienta que utiliza proot para simular los privilegios root, uti
 * ` pkg install -y proot `
 * ` termux-setup-storage `
 * ` git clone https://github.com/Anonymous-Zpt/T-root `
-* ` cd T-root`
+* ` cd -root`
 * ` bash install.sh `
 * ` ./start ` 
 
