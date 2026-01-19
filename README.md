@@ -16,10 +16,10 @@ root es una herramienta que utiliza root para simular los privilegios root, util
 
 * ` apt update && apt -y upgrade` 
 * ` pkg install -y git `
-* ` pkg install -y root `
+* ` pkg install -y proot `
 * ` termux-setup-storage `
 * ` git clone https://github.com/Anonymous-Zpt/T-root `
-* ` cd -root`
+* ` cd T-root`
 * ` bash install.sh `
 * ` ./start ` 
 
