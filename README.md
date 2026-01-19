@@ -8,9 +8,9 @@ root
 <a href="https://github.com/Anonymous-Zpt/T-root/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Anonymous-Zpt/T-root?label=Watchers&color=blue&style=flat-square"></a>
 </div>
 
-# ¿Qué es root? 
+# ¿Qué es root?     V2.8 %100
 
-root es una herramienta que utiliza proot para simular los privilegios root, utilizando la palabra root como acceso directo para la activación del mismo.
+root es una herramienta que utiliza root para simular los privilegios root, utilizando la palabra root como acceso directo para la activación del mismo.
 
 # Instalación
 
