@@ -9,7 +9,7 @@ root
 </div>
 
 # ¿Qué es root?     V2.8
-file 8 pcs  facil   AI%100
+file 8 bug pcs  facil   AI%100
 root es una herramienta que utiliza root para simular los privilegios root, utilizando la palabra root como acceso directo para la activación del mismo.
 
 # Instalación 
