@@ -19,10 +19,9 @@ cy="$b\033[38;2;23;147;209m"
 Adios() {
 sleep 0.0
 echo
-printf "$A[$b1+$A]${b1} Creador:$a     Anonymous Zpt\n"
-printf "$A[$b1+$A]${b1} Herramienta:$a T-root\n"
-printf "$A[$b1+$A]${b1} GitHub:$a      https://github.com/Anonymous-Zpt\n"
-printf "$A[$b1+$A]${b1} YouTube:$a     http://www.youtube.com/c/AnonymousZpt$b\n"
+printf "$A[$b1+$A]${b1} Creador:$a     Anonymous ROOT 
+printf "$A[$b1+$A]${b1} Herramienta:$a Root
+printf "$A[$b1+$A]${b1} GitHub:$a      https://github.com/Anonymous-ROOT
 echo
 sleep 0.3
 exit
@@ -48,7 +47,7 @@ echo -e "$v1
 ▓██ ░▄█ ▒▒██░  ██▒▒██░  ██▒▒ ▓██░ ▒░
 ▒██▀▀█▄  ▒██   ██░▒██   ██░░ ▓██▓ ░
 ░██▓ ▒██▒░ ████▓▒░░ ████▓▒░  ▒██▒ ░
-░ ▒▓ ░▒▓░░${b1}Anonymous Zpt$v1 ▒░▒░   ▒ ░░
+░ ▒▓ ░▒▓░░${b1}Anonymous V2.8 ▒░▒░   ▒ ░░
   ░▒ ░ ▒░  ░ ▒ ▒░   ░ ▒ ▒░     ░
   ░░   ░ ░ ░ ░ ▒  ░ ░ ░ ▒    ░
    ░         ░ ░      ░ ░
@@ -85,7 +84,6 @@ printf "$A[$b1+$A]${b1} Creador:$a Anonymous Zpt\n"
 sleep 0.3
 printf "$A[$b1+$A]${b1} GitHub:$a  https://github.com/Anonymous-Zpt\n"
 sleep 0.3
-printf "$A[$b1+$A]${b1} YouTube:$a http://www.youtube.com/c/AnonymousZpt$b\n"
 sleep 0.3
 printf "$A[$b1+$A]${b1} Utiliza:$r ./start$b\n"
 sleep 0.1
